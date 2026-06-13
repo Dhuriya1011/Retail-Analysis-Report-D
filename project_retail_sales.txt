@@ -1,0 +1,46 @@
+# Retail Sales Analysis Report
+
+## Introduction
+
+Retail businesses generate large amounts of sales data that can be analyzed to improve decision-making. This project focuses on analyzing monthly sales across multiple product categories.
+
+## Objective
+
+To apply data science techniques to a real-world retail dataset and identify patterns, trends, and key performance indicators.
+
+## Methodology
+
+1. Data Collection
+2. Data Cleaning
+3. Statistical Analysis
+4. Visualization
+5. Insight Generation
+
+## Results
+
+### Sales Trend
+
+Sales showed continuous growth from January to October.
+
+### Category Performance
+
+Electronics emerged as the highest-performing category, contributing the largest share of revenue.
+
+### Business Insights
+
+* Increased sales indicate growing customer demand.
+* Electronics products are the primary revenue driver.
+* Clothing sales demonstrate steady growth potential.
+* Grocery sales provide a stable revenue base.
+
+## Conclusion
+
+This project successfully applied data science techniques to a real-world retail dataset. The findings demonstrate how businesses can use data analytics to monitor performance and make informed decisions.
+
+## Learning Outcomes
+
+* Real-world data analysis
+* Data visualization
+* Trend identification
+* Business insight generation
+* Practical application of data science concepts
